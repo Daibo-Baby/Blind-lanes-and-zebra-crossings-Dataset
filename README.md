@@ -1,2 +1,4 @@
 # Blind-lanes-and-zebra-crossings-Dataset
-Blind lanes and zebra crossings segmentation network for embedded platforms
+This is a Dataset of ourpaper Blind lanes and zebra crossings segmentation network for embedded platforms
+
+# The dataset will come soon
